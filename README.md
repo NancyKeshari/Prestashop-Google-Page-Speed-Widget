@@ -15,6 +15,5 @@ Google Pagespeed Insights requires a Google API Key. Keys are free and can be ob
 - After enabling the API, navigate to the “API Access” page from the left menu. Your API Key can be found under “Simple API Access.” Copy this key to your clipboard.
 - Paste this API Key into the Widget text box (by clicking GEAR icon on the widget) of Google Pagespeed Insights for Prestashop.
 
-
-For more information, you can get in touch with me on: 
-email: nancy@cwebconsultants.com
+# VERSION COMAPATIBILITY
+Prestashop V1.6.x.x & 1.7 
